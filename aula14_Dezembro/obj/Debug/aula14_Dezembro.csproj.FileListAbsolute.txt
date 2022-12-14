@@ -1,0 +1,11 @@
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\obj\Debug\aula14_Dezembro.csproj.AssemblyReference.cache
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\obj\Debug\aula14_Dezembro.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\obj\Debug\aula14_Dezembro.Form1.resources
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\obj\Debug\aula14_Dezembro.Properties.Resources.resources
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\obj\Debug\aula14_Dezembro.csproj.GenerateResource.cache
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\obj\Debug\aula14_Dezembro.csproj.CoreCompileInputs.cache
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\bin\Debug\aula14_Dezembro.exe.config
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\bin\Debug\aula14_Dezembro.exe
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\bin\Debug\aula14_Dezembro.pdb
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\obj\Debug\aula14_Dezembro.exe
+C:\Users\mateus.agwada\source\repos\aula14_Dezembro\obj\Debug\aula14_Dezembro.pdb
